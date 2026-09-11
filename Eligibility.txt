@@ -1,0 +1,7 @@
+Eligibility Criteria for B.Tech Admission
+
+- Candidates must have passed 10+2 with Physics, Chemistry, and Mathematics.
+- Minimum aggregate of 60% marks (55% for reserved categories).
+- Valid score in JEE Main or the respective state CET is mandatory.
+- Age limit: Candidate must not be older than 21 years as of admission year 
+  (relaxation for reserved categories as per government norms).

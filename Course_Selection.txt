@@ -1,0 +1,9 @@
+Available Courses
+
+- B.Tech Computer Science and Engineering (CSE)
+- B.Tech Electronics and Communication Engineering (ECE)
+- B.Tech Mechanical Engineering
+- B.Tech Civil Engineering
+
+Course selection is based on JEE/CET rank, seat availability, and 
+candidate preference filled during counseling.
