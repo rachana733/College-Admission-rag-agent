@@ -172,8 +172,8 @@ with cited sources.
 ## Example Questions
 
 - *"What are the eligibility criteria for undergraduate admission?"*
-- *"What is the fee structure for international students?"*
-- *"Which elective courses are available in the second year?"*
+- *"What are the one-time or refundable fees?"*
+- *"What branches or courses are available for B.Tech?"*
 - *"What documents do I need to submit with my application?"*
 
 ---
